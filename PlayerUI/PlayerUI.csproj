@@ -1,0 +1,252 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B265B459-B4B6-44BC-BDB1-B401C58DC48F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>PlayerUI</RootNamespace>
+    <AssemblyName>PlayerUI</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ComponentFactory.Krypton.Toolkit, Version=4.6.0.0, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\ComponentFactory.Krypton.Toolkit.dll</HintPath>
+    </Reference>
+    <Reference Include="ComponentFactory.Krypton.Workspace">
+      <HintPath>..\..\..\Krypton-master\Krypton-master\Bin\ComponentFactory.Krypton.Workspace.dll</HintPath>
+    </Reference>
+    <Reference Include="Mysql.Data">
+      <HintPath>..\..\..\MODERN JEWELLARY\Jewellery\Jewellery_System\bin\Debug\Mysql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BUS\box.cs" />
+    <Compile Include="BUS\boxitems.cs" />
+    <Compile Include="BUS\category2.cs" />
+    <Compile Include="BUS\catogery1.cs" />
+    <Compile Include="BUS\Config.cs" />
+    <Compile Include="BUS\customer.cs" />
+    <Compile Include="BUS\datagr.cs" />
+    <Compile Include="BUS\itemform.cs" />
+    <Compile Include="BUS\jewellery.cs" />
+    <Compile Include="BUS\price.cs" />
+    <Compile Include="BUS\purchase.cs" />
+    <Compile Include="DAT\function_.cs" />
+    <Compile Include="DAT\NewDataAccessLayer.cs" />
+    <Compile Include="Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Home.designer.cs">
+      <DependentUpon>Home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\BOXES\Box.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRE\BOXES\Box.designer.cs">
+      <DependentUpon>Box.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\BOXES\frmSearchBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRE\BOXES\frmSearchBox.designer.cs">
+      <DependentUpon>frmSearchBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\BOXITEMS\BoxItems.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRE\BOXITEMS\BoxItems.Designer.cs">
+      <DependentUpon>BoxItems.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\CATEGORY1\frmAddCatergory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRE\CATEGORY1\frmAddCatergory.designer.cs">
+      <DependentUpon>frmAddCatergory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\CATEGORY2\frmCategoryByDays.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRE\CATEGORY2\frmCategoryByDays.designer.cs">
+      <DependentUpon>frmCategoryByDays.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\CUSTOMER\CUSTOMER.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRE\CUSTOMER\CUSTOMER.Designer.cs">
+      <DependentUpon>CUSTOMER.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\CUSTOMER\frmSearchCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRE\CUSTOMER\frmSearchCustomer.Designer.cs">
+      <DependentUpon>frmSearchCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\ITEMFORM\frmSeachItems.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRE\ITEMFORM\frmSeachItems.designer.cs">
+      <DependentUpon>frmSeachItems.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\ITEMFORM\ITEMFORM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRE\ITEMFORM\ITEMFORM.designer.cs">
+      <DependentUpon>ITEMFORM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\JEWELLERY\Jewellery.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRE\JEWELLERY\Jewellery.designer.cs">
+      <DependentUpon>Jewellery.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\Menu\Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRE\Menu\Menu.Designer.cs">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\PRICE\Price.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRE\PRICE\Price.Designer.cs">
+      <DependentUpon>Price.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\PURCHASE\List.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRE\PURCHASE\List.designer.cs">
+      <DependentUpon>List.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\PURCHASE\PURCHASE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRE\PURCHASE\PURCHASE.Designer.cs">
+      <DependentUpon>PURCHASE.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\user.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRE\user.Designer.cs">
+      <DependentUpon>user.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Home.resx">
+      <DependentUpon>Home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\BOXES\Box.resx">
+      <DependentUpon>Box.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\BOXES\frmSearchBox.resx">
+      <DependentUpon>frmSearchBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\BOXITEMS\BoxItems.resx">
+      <DependentUpon>BoxItems.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\CATEGORY1\frmAddCatergory.resx">
+      <DependentUpon>frmAddCatergory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\CATEGORY2\frmCategoryByDays.resx">
+      <DependentUpon>frmCategoryByDays.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\CUSTOMER\CUSTOMER.resx">
+      <DependentUpon>CUSTOMER.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\CUSTOMER\frmSearchCustomer.resx">
+      <DependentUpon>frmSearchCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\ITEMFORM\frmSeachItems.resx">
+      <DependentUpon>frmSeachItems.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\ITEMFORM\ITEMFORM.resx">
+      <DependentUpon>ITEMFORM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\JEWELLERY\Jewellery.resx">
+      <DependentUpon>Jewellery.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\Menu\Menu.resx">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\PRICE\Price.resx">
+      <DependentUpon>Price.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\PURCHASE\List.resx">
+      <DependentUpon>List.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\PURCHASE\PURCHASE.resx">
+      <DependentUpon>PURCHASE.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\user.resx">
+      <DependentUpon>user.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="PRE\PURCHASE\PURCHASE List form only.zip" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,86 @@
+G:\VS Project\PlayerUI\PlayerUI\bin\Debug\PlayerUI.exe.config
+G:\VS Project\PlayerUI\PlayerUI\obj\Debug\PlayerUI.csprojResolveAssemblyReference.cache
+G:\VS Project\PlayerUI\PlayerUI\obj\Debug\PlayerUI.Properties.Resources.resources
+G:\VS Project\PlayerUI\PlayerUI\obj\Debug\PlayerUI.csproj.GenerateResource.Cache
+G:\VS Project\PlayerUI\PlayerUI\bin\Debug\PlayerUI.exe
+G:\VS Project\PlayerUI\PlayerUI\bin\Debug\PlayerUI.pdb
+G:\VS Project\PlayerUI\PlayerUI\obj\Debug\PlayerUI.Form1.resources
+G:\VS Project\PlayerUI\PlayerUI\obj\Debug\PlayerUI.Form2.resources
+G:\VS Project\PlayerUI\PlayerUI\obj\Debug\PlayerUI.Form3.resources
+G:\VS Project\PlayerUI\PlayerUI\obj\Debug\PlayerUI.exe
+G:\VS Project\PlayerUI\PlayerUI\obj\Debug\PlayerUI.pdb
+D:\RJ Code Advance\Test Projects\PlayerUI\PlayerUI\bin\Debug\PlayerUI.exe.config
+D:\RJ Code Advance\Test Projects\PlayerUI\PlayerUI\obj\Debug\PlayerUI.exe
+D:\RJ Code Advance\Test Projects\PlayerUI\PlayerUI\obj\Debug\PlayerUI.pdb
+C:\Users\Rj_Sathusan\Downloads\Modern-Media-Player-UI-C-Sharp-master\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\PlayerUI.exe.config
+C:\Users\Rj_Sathusan\Downloads\Modern-Media-Player-UI-C-Sharp-master\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.exe
+C:\Users\Rj_Sathusan\Downloads\Modern-Media-Player-UI-C-Sharp-master\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.pdb
+C:\Users\Rj_Sathusan\Downloads\Modern-Media-Player-UI-C-Sharp-master\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.csprojResolveAssemblyReference.cache
+C:\Users\Rj_Sathusan\Downloads\Modern-Media-Player-UI-C-Sharp-master\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\PlayerUI.exe
+C:\Users\Rj_Sathusan\Downloads\Modern-Media-Player-UI-C-Sharp-master\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\PlayerUI.pdb
+C:\Users\Rj_Sathusan\Downloads\Modern-Media-Player-UI-C-Sharp-master\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\mscorlib.dll
+C:\Users\Rj_Sathusan\Downloads\Modern-Media-Player-UI-C-Sharp-master\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\normidna.nlp
+C:\Users\Rj_Sathusan\Downloads\Modern-Media-Player-UI-C-Sharp-master\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\normnfc.nlp
+C:\Users\Rj_Sathusan\Downloads\Modern-Media-Player-UI-C-Sharp-master\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\normnfd.nlp
+C:\Users\Rj_Sathusan\Downloads\Modern-Media-Player-UI-C-Sharp-master\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\normnfkc.nlp
+C:\Users\Rj_Sathusan\Downloads\Modern-Media-Player-UI-C-Sharp-master\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\normnfkd.nlp
+C:\Users\Rj_Sathusan\Downloads\Modern-Media-Player-UI-C-Sharp-master\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Form1.resources
+C:\Users\Rj_Sathusan\Downloads\Modern-Media-Player-UI-C-Sharp-master\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Properties.Resources.resources
+C:\Users\Rj_Sathusan\Downloads\Modern-Media-Player-UI-C-Sharp-master\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.csproj.GenerateResource.Cache
+C:\Users\Rj_Sathusan\Downloads\Modern-Media-Player-UI-C-Sharp-master\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\Rj_Sathusan\Downloads\Modern-Media-Player-UI-C-Sharp-master\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\Jewellery_System.PRE.PURCHASE.List.resources
+C:\Users\Rj_Sathusan\Downloads\Modern-Media-Player-UI-C-Sharp-master\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\Jewellery_System.PRE.Boxes.Box.resources
+C:\Users\Rj_Sathusan\Downloads\Modern-Media-Player-UI-C-Sharp-master\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\Jewellery_System.PRE.Boxes.frmSearchBox.resources
+C:\Users\Rj_Sathusan\Downloads\Modern-Media-Player-UI-C-Sharp-master\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\Jewellery_System.PRE.BOXITEMS.BoxItems.resources
+C:\Users\Rj_Sathusan\Downloads\Modern-Media-Player-UI-C-Sharp-master\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\Jewellery_System.PRE.CATEGORY1.frmAddCatergory.resources
+C:\Users\Rj_Sathusan\Downloads\Modern-Media-Player-UI-C-Sharp-master\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\Jewellery_System.PRE.CATEGORY2.frmCategoryByDays.resources
+C:\Users\Rj_Sathusan\Downloads\Modern-Media-Player-UI-C-Sharp-master\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\Jewellery_System.PRE.CUSTOMER.CUSTOMER.resources
+C:\Users\Rj_Sathusan\Downloads\Modern-Media-Player-UI-C-Sharp-master\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\Jewellery_System.PRE.CUSTOMER.frmSearchCustomer.resources
+C:\Users\Rj_Sathusan\Downloads\Modern-Media-Player-UI-C-Sharp-master\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\Jewellery_System.PRE.ITEMFORM.frmSeachItems.resources
+C:\Users\Rj_Sathusan\Downloads\Modern-Media-Player-UI-C-Sharp-master\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\Jewellery_System.PRE.ITEMFORM.ITEMFORM.resources
+C:\Users\Rj_Sathusan\Downloads\Modern-Media-Player-UI-C-Sharp-master\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\Jewellery_System.PRE.JEWELLERY.Jewellery.resources
+C:\Users\Rj_Sathusan\Downloads\Modern-Media-Player-UI-C-Sharp-master\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\Jewellery_System.PRE.Menu.Menu.resources
+C:\Users\Rj_Sathusan\Downloads\Modern-Media-Player-UI-C-Sharp-master\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\Jewellery_System.PRE.PRICE.Price.resources
+C:\Users\Rj_Sathusan\Downloads\Modern-Media-Player-UI-C-Sharp-master\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\Jewellery_System.PRE.PURCHASE.PURCHASE.resources
+C:\Users\Rj_Sathusan\Downloads\Modern-Media-Player-UI-C-Sharp-master\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+C:\Users\Rj_Sathusan\Downloads\Modern-Media-Player-UI-C-Sharp-master\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\Mysql.Data.dll
+C:\Users\Rj_Sathusan\Downloads\Modern-Media-Player-UI-C-Sharp-master\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+C:\Users\Rj_Sathusan\Downloads\Modern-Media-Player-UI-C-Sharp-master\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\Rj_Sathusan\Downloads\Modern-Media-Player-UI-C-Sharp-master\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\Rj_Sathusan\Downloads\Modern-Media-Player-UI-C-Sharp-master\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.PRE.user.resources
+C:\Users\Rj_Sathusan\Downloads\UI Jewelery\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\PlayerUI.exe.config
+C:\Users\Rj_Sathusan\Downloads\UI Jewelery\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.exe
+C:\Users\Rj_Sathusan\Downloads\UI Jewelery\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.pdb
+C:\Users\Rj_Sathusan\Downloads\UI Jewelery\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\PlayerUI.exe
+C:\Users\Rj_Sathusan\Downloads\UI Jewelery\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\PlayerUI.pdb
+C:\Users\Rj_Sathusan\Downloads\UI Jewelery\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+C:\Users\Rj_Sathusan\Downloads\UI Jewelery\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\mscorlib.dll
+C:\Users\Rj_Sathusan\Downloads\UI Jewelery\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\Mysql.Data.dll
+C:\Users\Rj_Sathusan\Downloads\UI Jewelery\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+C:\Users\Rj_Sathusan\Downloads\UI Jewelery\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\Rj_Sathusan\Downloads\UI Jewelery\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\Rj_Sathusan\Downloads\UI Jewelery\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\Rj_Sathusan\Downloads\UI Jewelery\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\normidna.nlp
+C:\Users\Rj_Sathusan\Downloads\UI Jewelery\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\normnfc.nlp
+C:\Users\Rj_Sathusan\Downloads\UI Jewelery\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\normnfd.nlp
+C:\Users\Rj_Sathusan\Downloads\UI Jewelery\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\normnfkc.nlp
+C:\Users\Rj_Sathusan\Downloads\UI Jewelery\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\normnfkd.nlp
+C:\Users\Rj_Sathusan\Downloads\UI Jewelery\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.csprojResolveAssemblyReference.cache
+C:\Users\Rj_Sathusan\Downloads\UI Jewelery\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Home.resources
+C:\Users\Rj_Sathusan\Downloads\UI Jewelery\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\Jewellery_System.PRE.Boxes.Box.resources
+C:\Users\Rj_Sathusan\Downloads\UI Jewelery\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\Jewellery_System.PRE.Boxes.frmSearchBox.resources
+C:\Users\Rj_Sathusan\Downloads\UI Jewelery\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\Jewellery_System.PRE.BOXITEMS.BoxItems.resources
+C:\Users\Rj_Sathusan\Downloads\UI Jewelery\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\Jewellery_System.PRE.CATEGORY1.frmAddCatergory.resources
+C:\Users\Rj_Sathusan\Downloads\UI Jewelery\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\Jewellery_System.PRE.CATEGORY2.frmCategoryByDays.resources
+C:\Users\Rj_Sathusan\Downloads\UI Jewelery\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\Jewellery_System.PRE.CUSTOMER.CUSTOMER.resources
+C:\Users\Rj_Sathusan\Downloads\UI Jewelery\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\Jewellery_System.PRE.CUSTOMER.frmSearchCustomer.resources
+C:\Users\Rj_Sathusan\Downloads\UI Jewelery\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\Jewellery_System.PRE.ITEMFORM.frmSeachItems.resources
+C:\Users\Rj_Sathusan\Downloads\UI Jewelery\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\Jewellery_System.PRE.ITEMFORM.ITEMFORM.resources
+C:\Users\Rj_Sathusan\Downloads\UI Jewelery\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\Jewellery_System.PRE.JEWELLERY.Jewellery.resources
+C:\Users\Rj_Sathusan\Downloads\UI Jewelery\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\Jewellery_System.PRE.Menu.Menu.resources
+C:\Users\Rj_Sathusan\Downloads\UI Jewelery\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\Jewellery_System.PRE.PRICE.Price.resources
+C:\Users\Rj_Sathusan\Downloads\UI Jewelery\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\Jewellery_System.PRE.PURCHASE.List.resources
+C:\Users\Rj_Sathusan\Downloads\UI Jewelery\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\Jewellery_System.PRE.PURCHASE.PURCHASE.resources
+C:\Users\Rj_Sathusan\Downloads\UI Jewelery\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.PRE.user.resources
+C:\Users\Rj_Sathusan\Downloads\UI Jewelery\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Properties.Resources.resources
+C:\Users\Rj_Sathusan\Downloads\UI Jewelery\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.csproj.GenerateResource.Cache
