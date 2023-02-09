@@ -6,9 +6,8 @@
 - Inovices ,
 - Purchase ,
 - Bank ,
-- Cheque Details and More details of a **Jeweller shop**
-- 
-- :point_down:	:point_down:	:point_down:	:point_down:	:point_down:	:point_down:	:point_down:	:point_down:	:point_down:	:point_down:	:point_down:	
+- Cheque Details and More details of a **Jeweller shop** - :point_down:	:point_down:	:point_down:	:point_down:	:point_down:	:point_down:	:point_down:	:point_down:	:point_down:	:point_down:	:point_down:	
+
 
 ![My Image](i1.png)
 
