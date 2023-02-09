@@ -1,6 +1,6 @@
 # Jewelry Management System :sparkles:
 
-Overview
+## Overview
 This system is developed using C# and MySQL as the database to record the sales, users, invoices, purchases, bank details, cheque details, and more for a jewelry shop. With this system, managing a jewelry business has never been easier.
 
 Features
