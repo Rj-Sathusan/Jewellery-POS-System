@@ -10,5 +10,8 @@
 - 
 - :point_down:	:point_down:	:point_down:	:point_down:	:point_down:	:point_down:	:point_down:	:point_down:	:point_down:	:point_down:	:point_down:	
 
-![My Image](i1.png)![My Image](sc4.jpeg)![My Image](sc3.jpeg)
+![My Image](i1.png)
 
+![My Image](i2.png)
+![My Image](i3.png)
+![My Image](i4.png)
