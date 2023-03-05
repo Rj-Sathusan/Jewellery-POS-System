@@ -13,8 +13,7 @@ This system is developed using C# and MySQL as the database to record the sales,
 ![My Image](i1.png)
 
 ![My Image](i2.png)
-![My Image](i3.png)
-![My Image](i4.png)
+
 
 ## Technical Requirements
 - C#
