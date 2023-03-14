@@ -1,7 +1,7 @@
 # Jewelry Management System :sparkles:
 
 ## Overview
-This jewelry shop management system utilizes .NET and MySQL, integrating proper OOP design and MySQL store procedures. It records sales, users, invoices, purchases, bank, and cheque details, making jewelry business management effortless.
+This Jewelry management system utilizes .NET and MySQL, integrating proper OOP design and MySQL store procedures. It records sales, users, invoices, purchases, bank, and cheque details, making jewelry business management effortless.
 
 ## Features
 - User-friendly interface
