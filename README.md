@@ -10,7 +10,7 @@ This Jewelry management system utilizes .NET and MySQL, integrating proper OOP d
 
 ## Screenshots
 
-![My Image](i1.png)
+![My Image](Resource/Readme(0).png)
 
 ![My Image](i2.png)
 
