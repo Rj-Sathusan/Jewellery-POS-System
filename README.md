@@ -10,9 +10,9 @@ This Jewelry management system utilizes .NET and MySQL, integrating proper OOP d
 
 ## Screenshots
 
-![My Image](Resource/Reedme(4).png)
+![My Image](Reedme4.png)
 
-![My Image](i2.png)
+![My Image](Reedme1.png)
 
 
 ## Technical Requirements
